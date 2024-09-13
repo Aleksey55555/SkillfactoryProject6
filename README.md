@@ -2,7 +2,7 @@
 
 Файл с исходными [данными](https://lms-cdn.skillfactory.ru/assets/courseware/v1/468638e49cb9e7d4b4dfdc296c1c778e/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/pj6_data.zip).
 
-Для просмотра проекта с графиками в формате HTML можно воспользоваться [nbviewer]().  
+Для просмотра проекта с графиками в формате HTML можно воспользоваться [nbviewer](https://nbviewer.org/github/Aleksey55555/SkillfactoryProject6/blob/master/PROJECT-6._%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb).  
 
 
 ## Содержание
